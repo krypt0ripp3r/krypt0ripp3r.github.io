@@ -15,5 +15,6 @@ ___
 nmap -sC -sV -T4 -oA nmap 10.10.10.95
 ```
 ![Nmap results](./nmap.png)
+
 There is only port 8080 open which indicates Apache Tomcat server.
 ___
