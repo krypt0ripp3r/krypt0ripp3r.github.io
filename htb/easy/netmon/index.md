@@ -6,7 +6,6 @@
 
 &nbsp;<span style="color:#b5e853; font-weight: bold">Difficulity: </span><b>Easy</b>
 &nbsp;<span style="color:#b5e853; font-weight: bold">Release: </span><b>2019 Mar 2</b>
-&nbsp;<span style="color:#b5e853; font-weight: bold">Made by: </span><b>mrb3n</b>
 
 ___
 

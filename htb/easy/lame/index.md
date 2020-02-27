@@ -6,7 +6,6 @@
 
 &nbsp;<span style="color:#b5e853; font-weight: bold">Difficulity: </span><b>Easy</b>
 &nbsp;<span style="color:#b5e853; font-weight: bold">Release: </span><b>2017 Mar 14</b>
-&nbsp;<span style="color:#b5e853; font-weight: bold">Made by: </span><b>ch4p</b>
 
 ___
 

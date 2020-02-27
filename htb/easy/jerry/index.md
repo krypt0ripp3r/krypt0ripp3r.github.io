@@ -6,7 +6,6 @@
 
 &nbsp;<span style="color:#b5e853; font-weight: bold">Difficulity: </span><b>Easy</b>
 &nbsp;<span style="color:#b5e853; font-weight: bold">Release: </span><b>2018 Jun 30</b>
-&nbsp;<span style="color:#b5e853; font-weight: bold">Made by: </span><b>mrh4sh</b>
 
 ___
 
