@@ -71,7 +71,7 @@ set session 1
 run
 ```
 
-![Privilege escalation scan](priv_esc.png)
+![Privilege escalation scan](priv_esc_scan.png)
 
 Machine is potentialy vulnerable to many exploits. Let's try last one:
 
